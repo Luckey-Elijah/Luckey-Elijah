@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on [paperwalk.io](https://paperwalk.io)
+- 🔭 I’m currently working on [paperwalk.io](https://paperwalk.io).
 - 🌱 I’m currently learning Python 3, Dart, and Javascript.
 - 👯 I’m looking to collaborate on mobile application and data warehousing solutions.
 - 💬 Ask me about coding philosophy.

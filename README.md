@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on @HuckAdventures.
+- 🔭 I’m currently working on [@HuckAdventures](https://github.com/HuckAdventures).
 - 🌱 I’m currently learning Python 3, Dart/Flutter, and Javascript.
 - 👯 I’m looking to collaborate on mobile application and data warehousing solutions.
 - 💬 Ask me about coding philosophy.

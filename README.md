@@ -12,12 +12,8 @@
 
 ---
 
-## 💡 Some of my favorite repos right now!
+![](https://raw.githubusercontent.com/Luckey-Elijah/Luckey-Elijah/master/profile-summary-card-output/default/0-profile-details.svg)
 
+![](https://raw.githubusercontent.com/Luckey-Elijah/Luckey-Elijah/master/profile-summary-card-output/default/1-repos-per-language.svg)
 
-| Repo                                                                                                                        | Description                                                                              |
-| :-------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------- |
-| [Luckey-Elijah/Helm](https://github.com/Luckey-Elijah/Helm)                                                                 | *A mobile application designed to help improve your mental health.*                      |
-| [Luckey-Elijah/Personal-Site](https://github.com/Luckey-Elijah/Personal-Site)                                               | *My personal website.*                                                                   |
-| [Luckey-Elijah/Simple-Recipes-Flutter](https://github.com/Luckey-Elijah/Simple-Recipes-Flutter)                             | *A simple recipes app made with Flutter.*                                                |
-| [Luckey-Elijah/Database-for-Non-Profit-Organization](https://github.com/Luckey-Elijah/Database-for-Non-Profit-Organization) | *The repository for the DDL and DML SQL scripts for COP3710 (Database 1) Project group.* |
+![](https://raw.githubusercontent.com/Luckey-Elijah/Luckey-Elijah/master/profile-summary-card-output/default/2-most-commit-language.svg)

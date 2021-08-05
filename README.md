@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-<!--- - 🔭 I’m currently working with [@Auby](https://www.heyauby.com/) for mobile development and cloud services.--->
+- - 🔭 I’m currently working at Huntington Nation Bank for mobile development.
 - 🌱 I’m currently learning Python 3, Dart/Flutter, and Javascript.
 - 👯 I’m looking to collaborate on mobile application and data warehousing solutions.
 - 💬 Ask me about my coding philosophy.

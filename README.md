@@ -2,11 +2,8 @@
 
 ## Hi there 👋
 
-- - 🔭 I’m currently working at Huntington Nation Bank for mobile development.
-- 🌱 I’m currently learning Python 3, Dart/Flutter, and Javascript.
-- 👯 I’m looking to collaborate on mobile application and data warehousing solutions.
-- 💬 Ask me about my coding philosophy.
-- 📫 Reach out to me by the email to the left (👈) or fill out the form on [my page](https://elijahluckey.com).
+- 🔭 I’m currently working at Huntington Nation Bank for mobile development.
+- 🌱 I’m currently using Dart & Flutter.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love music, photography, films, and cooking.
 

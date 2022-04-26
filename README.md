@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-- 🔭 I’m currently working at Insurance Toolkits for mobile development.
+- 🔭 I’m currently working at @InsuranceToolkits for mobile development.
 - 🌱 I’m currently using Dart & Flutter.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love music, photography, films, and cooking.

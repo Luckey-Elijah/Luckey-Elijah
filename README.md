@@ -1,14 +1,12 @@
-# 🧭 Elijah Luckey
+# 🧭 Elijah Luckey (he/his)
 
 ## Hi there 👋
 
-- 🔭 I’m currently working at [@InsuranceToolkits][itk] for mobile development.
-- 🌱 I’m currently using Dart & Flutter.
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I love music, photography, films, and cooking.
+- 🔭 Working at **[@InsuranceToolkits][itk]** (mobile app development).
+- 🌱 Creating with Dart & Flutter.
+- ⚡ Love music, photography, films, and cooking.
 
-![Summary card](https://raw.githubusercontent.com/Luckey-Elijah/Luckey-Elijah/master/profile-summary-card-output/vue/0-profile-details.svg)
-
-![Summary card](https://raw.githubusercontent.com/Luckey-Elijah/Luckey-Elijah/master/profile-summary-card-output/vue/1-repos-per-language.svg) ![Summary card](https://raw.githubusercontent.com/Luckey-Elijah/Luckey-Elijah/master/profile-summary-card-output/vue/2-most-commit-language.svg)
+![Luckey-Elijah's Detail card][details]
 
 [itk]: https://github.com/InsuranceToolkits
+[details]: https://raw.githubusercontent.com/Luckey-Elijah/Luckey-Elijah/master/profile-summary-card-output/vue/0-profile-details.svg

@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/Luckey-Elijah/Luckey-Elijah/master/profile-summary-card-output/outrun/4-productive-time.svg)
-```
-
-    

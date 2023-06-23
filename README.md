@@ -2,9 +2,10 @@
 
 ## Hi there 👋
 
-- 🔭 Working at **[@InsuranceToolkits][itk]** (mobile app development).
+- 🔭 Working at **[@InsuranceToolkits][itk]** (web/mobile app development).
 - 🌱 Creating with Dart & Flutter.
-- ⚡ Love music, photography, films, and cooking.
+- 🌱 Creating with Nx & Angular.
+- ⚡ Love music, films, and cooking.
 
 ![Luckey-Elijah's Detail card][details]
 

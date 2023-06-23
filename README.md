@@ -3,7 +3,7 @@
 ## Hi there 👋
 
 - 💸 Currently working on a self-hosted budgeting tool (ask me about it!)
-- 🔭 Working at **[@InsuranceToolkits][itk]** (web/mobile app development).
+- 🔭 Working at **[`@InsuranceToolkits`][itk]** (web/mobile app development).
 - 🌱 Creating with Dart & Flutter.
 - 🕸️ Creating with Nx & Angular.
 - ⚡ Love music, films, and cooking.

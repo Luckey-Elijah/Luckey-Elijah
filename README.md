@@ -2,9 +2,10 @@
 
 ## Hi there 👋
 
+- 💸 Currently working on a self-hosted budgeting tool (ask me about it!)
 - 🔭 Working at **[@InsuranceToolkits][itk]** (web/mobile app development).
 - 🌱 Creating with Dart & Flutter.
-- 🌱 Creating with Nx & Angular.
+- 🕸️ Creating with Nx & Angular.
 - ⚡ Love music, films, and cooking.
 
 ![Luckey-Elijah's Detail card][details]
